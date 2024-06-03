@@ -1,8 +1,2 @@
 Nome dos alunos:
-Murilo,
-Gustavo,
-Letícia Beatriz,
-Guilherme de Morais,
-Igor,
-Christian,
-Robert
+Murilo, Igor, Vitor e Guilherme de Morais
